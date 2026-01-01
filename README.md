@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tinselisland
 
-<!--
-**Tinselisland/Tinselisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tinselisland** is an independent digital platform that explores history, lifestyle, culture, entertainment, and intriguing facts from around the world.
 
-Here are some ideas to get you started:
+Each piece is crafted to be easy to read, informative, and engaging — helping readers understand the stories behind everyday topics without unnecessary complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website:** https://tinselisland.com
+
+## What We Publish
+- Hidden history & untold stories  
+- Lifestyle & culture insights  
+- Fascinating facts & explainers  
+- Entertainment deep-dives  
+
+Tinselisland is built for curious readers who enjoy learning something new in a simple, modern format.
