@@ -4,7 +4,7 @@
 
 Each piece is crafted to be easy to read, informative, and engaging — helping readers understand the stories behind everyday topics without unnecessary complexity.
 
-🌐 **Website:** https://tinselisland.com
+🌐 **Website:** https://tinselisland.com/
 
 ## What We Publish
 - Hidden history & untold stories  
